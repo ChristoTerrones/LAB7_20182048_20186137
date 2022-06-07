@@ -1,3 +1,6 @@
+<%@ page import="Beans.reporte" %>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<jsp:useBean type="java.util.ArrayList<Beans.reporte>">
 <html>
     <head><title>POPCORN S.A.C</title></head>
     <body>
