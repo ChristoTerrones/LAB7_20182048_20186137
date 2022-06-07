@@ -5,7 +5,7 @@ import Beans.reporte;
 import java.sql.*;
 import java.util.ArrayList;
 
-public class ArtistafiltradoDao {
+public class reporte_futurosDao {
     private static String user = "root";
     private static String pass = "root";
     private static String url = "jdbc:mysql://localhost:3306/sakila";
