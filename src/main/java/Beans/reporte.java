@@ -6,6 +6,13 @@ public class reporte {
     private int Ncategorias;
     private int Npeliculas;
 
+    public reporte(int id, String nombre, int ncategorias, int npeliculas) {
+        this.id = id;
+        Nombre = nombre;
+        Ncategorias = ncategorias;
+        Npeliculas = npeliculas;
+    }
+
     public int getId() {
         return id;
     }
