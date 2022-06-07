@@ -1,4 +1,4 @@
 package Beans;
 
-public class lista git add{
+public class lista git addgita{
 }
